@@ -1,0 +1,14 @@
+{
+  "name": "routes-basic",
+  "version": "1.0.0",
+  "description": "first route project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronaldo Junior",
+  "license": "ISC",
+  "dependencies": {
+    "https-server": "^0.1.2"
+  }
+}
